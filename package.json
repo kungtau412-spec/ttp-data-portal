@@ -1,4 +1,6 @@
 {
+  "name": "ttp-data-portal",
+  "private": true,
   "workspaces": [
     "apps/*"
   ],
